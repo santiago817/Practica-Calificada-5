@@ -30,3 +30,4 @@ if (menu == 3) {
   area = (Base * altura) / 2;
   alert("El area del triángulo es de: " + area + "m2");
 }
+alert("Opción no válida. Por favor, ingrese la información nuevamente.");
